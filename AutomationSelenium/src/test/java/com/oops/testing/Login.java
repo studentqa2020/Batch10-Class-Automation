@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import com.util.Highlighter;
 import com.xpath.pagefactory.MasterPageFactory;
 
-public class FBLogin {
+public class Login {
 	
 	public static void main(String[] args) throws Throwable {
 	
